@@ -92,7 +92,7 @@
 }
 
 #body .wapper .redeem-section{
-    height: 1000px;
+    height: 1200px;
     width: 100%;
 
     background-color: aqua;
@@ -103,8 +103,6 @@
 
     text-align: center;
     font-size: 25px;
-    
-
 }
 
 #body .wapper .redeem-section .redeem-code{
@@ -117,8 +115,6 @@
     border-radius: 20px;
 
     background-color: #fff;
-
-
 }
 
 #body .wapper .redeem-section .redeem-code p{
@@ -144,13 +140,70 @@
     transition: .70s all ease;
 }
 
+#body .wapper .other-offer{
+    width: 100%;
+    height: 800px;
+    background-color: #fff;
+}
+
+#body .wapper .other-offer .ads-earn{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(247, 102, 102);
+
+}
+
+#body .wapper .other-offer .ads-earn .ads-earn1{
+    width: 35%;
+    height: 300px;
+    background-color: blue;
+    float: left;
+
+}
+#body .wapper .other-offer .ads-earn .ads-earn1 img{
+    background-size: cover;
+    height: 300px;
+}
+
+#body .wapper .other-offer .ads-earn .ads-earn2{
+
+    width: 75%;
+    height: 300px;
+    background-color: ;
+    float: left;
+
+}
+
+
+#body .wapper .other-offer .play-games{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(46, 13, 13);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #footer{
     float: left;
     width: 100%;
-    height:200px;
+    height:100px;
     background-color: rgb(56, 18, 145);
 }
+
+
 
 
 
