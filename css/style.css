@@ -1,11 +1,28 @@
-p{
-    background-color: rgb(15, 207, 95);
-    height: 200px;
-    width: 500px;
+*{
+    margin: auto;
+    padding: 0;
 }
 
-div{
+#manu{
     float: left;
     width: 33.33%;
     height:200px;
+    background-color: red;
 }
+
+#body{
+    float: left;
+    width: 33.33%;
+    height:200px;
+    background-color: rgb(25, 168, 61);
+}
+
+#footer{
+    float: left;
+    width: 33.33%;
+    height:200px;
+    background-color: rgb(56, 18, 145);
+}
+
+
+
